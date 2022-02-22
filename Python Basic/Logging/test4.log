@@ -1,0 +1,6 @@
+root - 2022-02-22 19:00:27,413 - INFO - this is my first test code for log
+user1 - 2022-02-22 19:00:27,417 - INFO - this is info for logger one
+user2 - 2022-02-22 19:00:27,419 - INFO - this is debug for logger two
+parso.cache - 2022-02-22 19:53:13,308 - DEBUG - pickle loaded: /usr/lib/python3/dist-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+parso.cache - 2022-02-22 19:53:13,357 - DEBUG - pickle loaded: /usr/lib/python3.8/importlib/_bootstrap_external.py
+parso.cache - 2022-02-22 19:53:13,459 - DEBUG - pickle loaded: /usr/lib/python3.8/importlib/_bootstrap.py

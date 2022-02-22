@@ -1,0 +1,18 @@
+INFO:root:this is a start of function
+INFO:root:this is a start of function
+INFO:root:this is a start of function
+INFO:root:this is a start of function
+INFO:root:this is info log
+WARNING:root:this is my warning log
+INFO:root:this is info log
+WARNING:root:this is my warning log
+ERROR:root:this is my error log
+ERROR:root:this is my exception log
+NoneType: None
+CRITICAL:root:this is my critical log
+INFO:root:this is info log
+WARNING:root:this is my warning log
+ERROR:root:this is my error log
+ERROR:root:this is my exception log
+NoneType: None
+CRITICAL:root:this is my critical log

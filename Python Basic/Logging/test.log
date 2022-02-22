@@ -1,0 +1,33 @@
+2022-02-22 14:17:33,365 i am going to start my program
+2022-02-22 14:17:34,173 this is a first warning of my program to modify it
+2022-02-22 14:17:34,851 this is a msg for error
+2022-02-22 14:18:04,329 i am going to start my program
+2022-02-22 14:18:05,056 this is a first warning of my program to modify it
+2022-02-22 14:18:05,783 this is a msg for error
+2022-02-22 14:18:38,587 error has occured
+2022-02-22 14:18:38,588 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-18-4115ab3728aa>", line 3, in test1
+    div = a/b
+ZeroDivisionError: division by zero
+2022-02-22 14:24:56,462 40
+2022-02-22 14:24:56,464 error has occured
+2022-02-22 14:24:56,464 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-20-7d3bcf3bd136>", line 4, in test1
+    div = a/b
+ZeroDivisionError: division by zero
+2022-02-22 14:25:21,136 error has occured
+2022-02-22 14:25:21,137 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-22-210d74decde8>", line 4, in test1
+    div = a/b
+ZeroDivisionError: division by zero
+2022-02-22 14:25:51,541 4,0
+2022-02-22 14:25:51,541 error has occured
+2022-02-22 14:25:51,541 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-24-1a78a1928dc4>", line 4, in test1
+    div = a/b
+ZeroDivisionError: division by zero
+2022-02-22 14:29:34,297 this is a start of function
