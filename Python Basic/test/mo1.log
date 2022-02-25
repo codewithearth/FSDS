@@ -1,0 +1,15 @@
+2022-02-25 11:52:27,960 this is a starting of function
+2022-02-25 11:52:27,960 check weather input is integer or not
+2022-02-25 11:52:27,960 you enter :100
+2022-02-25 11:52:27,967 printing even numbers
+2022-02-25 11:52:27,972 this function is closed
+2022-02-25 11:52:28,083 this is a starting of function
+2022-02-25 11:52:28,084 check weather input is integer or not
+2022-02-25 11:52:28,084 you enter :245
+2022-02-25 11:52:28,095 printing even numbers
+2022-02-25 11:52:28,123 this function is closed
+2022-02-25 11:52:28,194 this is a starting of function
+2022-02-25 11:52:28,195 check weather input is integer or not
+2022-02-25 11:52:28,195 you enter :22eqfdcw
+2022-02-25 11:52:28,195 can only concatenate str (not "int") to str : not integer in input
+2022-02-25 11:52:28,196 this function is closed
