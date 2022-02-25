@@ -1,0 +1,31 @@
+2022-02-24 18:25:35,901 this is the starting of fn1 function
+2022-02-24 18:25:35,902 6 is input
+2022-02-24 18:25:35,902 6 is Even
+2022-02-24 18:25:36,110 this is the starting of fn2 function
+2022-02-24 18:25:36,111 5, 6 is input
+2022-02-24 18:25:36,111 6 is Greater
+2022-02-24 18:25:36,198 this is the starting of fn3 function
+2022-02-24 18:25:36,199 5, 6 is input
+2022-02-24 18:25:36,199 5 is Smallest
+2022-02-24 18:25:36,288 this is the starting of fn21 function
+2022-02-24 18:25:36,288 5 is input
+2022-02-24 18:25:36,289 25 is area of Square
+2022-02-24 18:25:36,377 this is the starting of fn22 function
+2022-02-24 18:25:36,377 5 is input
+2022-02-24 18:25:36,377 78.57142857142857 is the area of circle
+2022-02-24 18:25:36,466 this is the starting of fn23 function
+2022-02-24 18:25:36,467 4, 6 is input
+2022-02-24 18:25:36,467 24 is the area of rectangle
+2022-02-24 18:25:36,555 this is the starting of fn31 function
+2022-02-24 18:25:36,555 6, 4 is input
+2022-02-24 18:25:36,556 10 is the sum
+2022-02-24 18:25:36,655 this is the starting of fn32 function
+2022-02-24 18:25:36,655 6, 4 is input
+2022-02-24 18:25:36,655 24 is the multiplication
+2022-02-24 18:25:36,755 this is the starting of fn33 function
+2022-02-24 18:25:36,755 6, 4 is input
+2022-02-24 18:25:36,755 1.5 is the Division
+2022-02-24 19:15:48,178 Invalid alias: The name clear can't be aliased because it is another magic command.
+2022-02-24 19:15:48,179 Invalid alias: The name more can't be aliased because it is another magic command.
+2022-02-24 19:15:48,179 Invalid alias: The name less can't be aliased because it is another magic command.
+2022-02-24 19:15:48,179 Invalid alias: The name man can't be aliased because it is another magic command.
